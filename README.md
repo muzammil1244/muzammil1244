@@ -8,10 +8,11 @@
 
 ## 💫 About Me
 
-* 🚀 Full‑Stack Developer with a focus on **React Native** & **Node.js**
-* 🎯 Exploring **DevOps** concepts to strengthen deployment skills
-* 📚 Currently diving deeper into **DSA** & scalable backend systems
-* 🤝 Open to internships, collaborations, and freelance projects
+- 🚀 Full-Stack Developer specializing in **React.js**, **React Native**, and **Node.js**  
+- 🎯 Exploring **DevOps** practices to strengthen deployment and automation skills  
+- 📚 Currently learning **Agentic AI concepts** to stay ahead in modern AI development  
+- 🤝 Open to internships, collaborations, and freelance opportunities  
+
 
 ---
 
@@ -45,7 +46,7 @@
 * **WeatherNow** – Weather app with hourly forecasts & unit conversions.
 * **RN UI Kit** – Reusable RN components library (Buttons, Cards, Inputs).
 
-*(Replace placeholders with repo links for more impact)*
+
 
 ---
 
@@ -70,8 +71,7 @@
 
 ## ✨ Highlights
 
-* 🔹 Strong foundation in **React Native**, **Node.js**, and **MongoDB**
-* 🔹 Hands‑on experience fixing RN build issues (NDK, CMake, Ninja build)
+* 🔹 Strong foundation in **React.js & React Native**, **Node.js**, and **MongoDB**
 * 🔹 Interested in DevOps practices like CI/CD, Docker, and cloud hosting
 * 🔹 Always improving discipline, consistency, and clean coding habits
 
