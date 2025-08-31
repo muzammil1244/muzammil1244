@@ -1,6 +1,6 @@
 # Hi, I'm Muzammil 👋
 
-**Full‑Stack JavaScript Developer | React Native Enthusiast | BCA Student**
+**Full‑Stack JavaScript Developer | React Native | BCA Student**
 
 > Passionate about building clean mobile & web experiences. Curious about DevOps and always learning something new.
 
